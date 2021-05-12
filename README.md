@@ -4,6 +4,17 @@ For sharing holoviews bokeh dynamic map plots
 For instructions on how to do this:
 
 https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html
+My notes on trying the instructions from the above link:
+(base) barnett@coyote:~$ conda activate ce597
+(ce597) barnett@coyote:~$ cd voila
+(ce597) barnett@coyote:~/voila$ python -m venv venv
+(ce597) barnett@coyote:~/voila$ source venv/bin/activate
+(venv) (ce597) barnett@coyote:~/voila$ pip install voila
+(venv) (ce597) barnett@coyote:~/voila$ conda install -y -c conda-forge holoviews hvplot
+(ce597) (venv) barnett@coyote:~/voila$ conda install -y -c conda-forge geoviews
+ All requested packages already installed.
+
+
 
 https://nbviewer.jupyter.org/
 
