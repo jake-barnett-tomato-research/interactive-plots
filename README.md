@@ -2,6 +2,9 @@
 For sharing holoviews bokeh dynamic map plots
 
 For instructions on how to do this:
+
+https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html
+
 https://panel.holoviz.org/user_guide/Server_Deployment.html
 
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-file-manually
