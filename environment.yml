@@ -1,6 +1,9 @@
 name: ce597
 channels:
   - defaults
+  - pyviz
+packages:
+  - jupyter-panel-proxy
 dependencies:
   - holoviews
   - pandas
