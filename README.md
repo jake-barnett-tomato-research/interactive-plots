@@ -9,3 +9,6 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 https://github.com/holoviz-demos/clifford/blob/master/clifford.ipynb
 
 https://docs.bokeh.org/en/latest/docs/user_guide/server.html
+
+My first attempt at a shareable link for interactive plots using mybinder.org:
+https://hub.gke2.mybinder.org/user/jake-barnett-to-teractive-plots-es8uoryi/notebooks/Barnett_cee597_project_deploy.ipynb
